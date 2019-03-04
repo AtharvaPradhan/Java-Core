@@ -3,7 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Practice;
+/*
+ * Before running this code remember to import java POI in your Library.
+ * If you dont have java POI the code will not run.
+ */
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.*;
 import java.io.File;
